@@ -1,4 +1,4 @@
-# 📈 InvestInfinity
+# # 📈 InfinityMoney
 
 An AI-powered Stock Price Prediction and Portfolio Optimization platform built using **React, TypeScript, FastAPI, TensorFlow, LSTM, GRU, yfinance, and PyPortfolioOpt**.
 
