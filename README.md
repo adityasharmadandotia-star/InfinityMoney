@@ -10,12 +10,12 @@ Built with React • TypeScript • FastAPI • TensorFlow • LSTM • GRU
 
 # 📈 InfinityMoney
 
-![GitHub Stars](https://img.shields.io/github/stars/your-username/InfinityMoney?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/InfinityMoney?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/InfinityMoney?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/your-username/InfinityMoney?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/your-username/InfinityMoney?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/your-username/InfinityMoney?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/adityasharmadandotia-star/InfinityMoney?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/adityasharmadandotia-star/InfinityMoney?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/adityasharmadandotia-star/InfinityMoney?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/adityasharmadandotia-star/InfinityMoney?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/adityasharmadandotia-star/InfinityMoney?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/adityasharmadandotia-star/InfinityMoney?style=for-the-badge)
 
 An AI-powered Stock Price Prediction and Portfolio Optimization platform built using **React, TypeScript, FastAPI, TensorFlow, LSTM, GRU, yfinance, and PyPortfolioOpt**.
 
