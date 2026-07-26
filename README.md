@@ -1,3 +1,29 @@
+<h1 align="center">📈 InvestInfinity</h1>
+
+<p align="center">
+AI-Powered Stock Price Prediction & Portfolio Optimization Platform
+</p>
+
+<p align="center">
+Built with React • TypeScript • FastAPI • TensorFlow • LSTM • GRU
+</p>
+
+# 📈 InvestInfinity
+
+![GitHub Stars](https://img.shields.io/github/stars/your-username/InvestInfinity?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/your-username/InvestInfinity?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/your-username/InvestInfinity?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/your-username/InvestInfinity?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/your-username/InvestInfinity?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/your-username/InvestInfinity?style=for-the-badge)
+
+An AI-powered Stock Price Prediction and Portfolio Optimization platform built using **React, TypeScript, FastAPI, TensorFlow, LSTM, GRU, yfinance, and PyPortfolioOpt**.
+
+> 🚧 **Project Status:** This project is currently under active development. New features, AI models, and portfolio optimization modules are being implemented continuously.
+
+⭐ **If you like this project, don't forget to star the repository!**
+
+
 # # 📈 InfinityMoney
 
 An AI-powered Stock Price Prediction and Portfolio Optimization platform built using **React, TypeScript, FastAPI, TensorFlow, LSTM, GRU, yfinance, and PyPortfolioOpt**.
@@ -121,9 +147,17 @@ Whether you're fixing bugs, improving the UI, optimizing ML models, enhancing do
 
 ---
 
-# 🤝 Contributing
+## ❤️ Support the Project
 
-We welcome contributions of all sizes.
+If this project helps you, consider:
+
+- ⭐ Starring the repository
+- 🍴 Forking the project
+- 🐛 Reporting bugs
+- 💡 Suggesting new features
+- 🤝 Contributing to the project
+
+
 
 ### Getting Started
 
