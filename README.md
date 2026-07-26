@@ -1,4 +1,4 @@
-<h1 align="center">📈 InvestInfinity</h1>
+<h1 align="center">📈 InfinityMoney</h1>
 
 <p align="center">
 AI-Powered Stock Price Prediction & Portfolio Optimization Platform
@@ -8,14 +8,14 @@ AI-Powered Stock Price Prediction & Portfolio Optimization Platform
 Built with React • TypeScript • FastAPI • TensorFlow • LSTM • GRU
 </p>
 
-# 📈 InvestInfinity
+# 📈 InfinityMoney
 
-![GitHub Stars](https://img.shields.io/github/stars/your-username/InvestInfinity?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/InvestInfinity?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/InvestInfinity?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/your-username/InvestInfinity?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/your-username/InvestInfinity?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/your-username/InvestInfinity?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/your-username/InfinityMoney?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/your-username/InfinityMoney?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/your-username/InfinityMoney?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/your-username/InfinityMoney?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/your-username/InfinityMoney?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/your-username/InfinityMoney?style=for-the-badge)
 
 An AI-powered Stock Price Prediction and Portfolio Optimization platform built using **React, TypeScript, FastAPI, TensorFlow, LSTM, GRU, yfinance, and PyPortfolioOpt**.
 
@@ -139,7 +139,7 @@ The prediction models will be evaluated using:
 
 # 🌍 Open Source
 
-InvestInfinity is an open-source project.
+InfinityMoney is an open-source project.
 
 We welcome developers, students, AI enthusiasts, and finance enthusiasts to contribute and improve the project together.
 
